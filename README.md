@@ -1,2 +1,2 @@
 # pheme_dataset_preprocessing
-preprocessing code of PHEME dataset
+preprocessing code for PHEME dataset
